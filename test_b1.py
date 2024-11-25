@@ -21,3 +21,4 @@ she.age = 19
 print(she.name, she.age)
 she.hello()
 print(isinstance(she, Person))
+print(isinstance(she, Person))
