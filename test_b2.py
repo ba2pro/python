@@ -14,6 +14,8 @@ class Singer:
 iyou = Singer('아이유', 2008)        
 iyou.intruduce()
 iyou.age()
+iyou.age()
+
         
         
                 
